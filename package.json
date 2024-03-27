@@ -1,0 +1,32 @@
+{
+  "name": "cyto-tracer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-tracer.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-tracer/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-tracer#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "is-bool": "^0.0.3",
+    "is-null": "^1.0.1",
+    "is-odd": "^3.0.1",
+    "is-string": "^1.0.7",
+    "jquery": "^3.7.1",
+    "react": "^18.2.0",
+    "vite": "^5.2.6",
+    "webpack": "^5.91.0"
+  }
+}
